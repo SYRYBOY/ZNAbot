@@ -1,0 +1,17 @@
+# nano swap files
+*.swp
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+/config.py
+/data/config.py
+/data/guild_counts.json
+
+*.png
+*.gif
+*.jpg
+*.zip
